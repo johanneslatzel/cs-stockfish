@@ -1,2 +1,2 @@
 # cs-stockfish
-c# wrapper for the Stockfish chess engine
+This is a C# wrapper for the Stockfish chess engine.
